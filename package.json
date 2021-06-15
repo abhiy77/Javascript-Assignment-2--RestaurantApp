@@ -1,0 +1,14 @@
+{
+  "name": "assignment2-javascript",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Yelisetti",
+  "license": "ISC",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}

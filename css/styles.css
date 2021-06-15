@@ -1,0 +1,48 @@
+.heading{
+    color:white;
+    background-color: black;
+}
+
+.menu-card-img{
+    height: 300px;
+    width: 100%;
+}
+
+.menu-card-name{
+    text-transform:uppercase;
+    color: red;
+    margin-bottom: 25px;
+}
+
+.order-item-btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.price-span {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #79bcf2;
+    font-size: 1em;
+}
+
+.menu-header{
+    border-right: 1px solid black;
+}
+
+.menu-input{
+    height: 30px;
+    width: 100%;
+}
+
+.menu-delete-item{
+    margin-left: 35px;
+}
+
+.menu-qty-item{
+    margin-left: 20px;
+}
+
+.menu-price-item{
+    margin-left: 10px;
+}

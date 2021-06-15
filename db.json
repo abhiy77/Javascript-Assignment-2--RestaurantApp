@@ -1,0 +1,99 @@
+{
+  "menu": [
+    {
+      "id": "_ljxsjcqhlv",
+      "url": "https://5.imimg.com/data5/ON/WP/GLADMIN-8130751/cheese-tomato-pizza-500x500.png",
+      "name": "Classic Tomato Pizza",
+      "price": "199"
+    },
+    {
+      "id": "_toh0tl6ov5m",
+      "url": "https://image.freepik.com/free-photo/baked-onion-pizza-decorated-surface_219193-5643.jpg",
+      "name": "Premium Onion Pizza",
+      "price": "199"
+    },
+    {
+      "id": "_ufmi0qdtl1f",
+      "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/corn.03b94e8508ea6f1532fd1bd82734c1a8.1.jpg",
+      "name": "Classic Corn Pizza",
+      "price": "249"
+    },
+    {
+      "id": "_nce0k137awg",
+      "url": "https://www.veggiefestchicago.com/wp-content/uploads/2018/12/Garden-Veggie-Pizza-1.jpg",
+      "name": "Fresh Veggie Pizza",
+      "price": "249"
+    },
+    {
+      "id": "_9b4rpwwr2s",
+      "url": "https://thumbs.dreamstime.com/b/pizza-margherita-margarita-mozzarella-cheese-tomato-olive-italian-pizza-pizza-margherita-margarita-mozzarella-133884612.jpg",
+      "name": "Chef Spl Pizza",
+      "price": "269"
+    },
+    {
+      "id": "_d50hd126fcf",
+      "url": "http://www.awesomecuisine.com/content_images/1/paneer_pizza.jpg",
+      "name": "Paneer Da' Pizza",
+      "price": "299"
+    },
+    {
+      "id": "_4o51to6cxtq",
+      "url": "https://cdn.mydukaan.io/v1/image/892x892/132401/c55b10ae-b45c-40fc-9de3-0dfc5fe1fc25.png",
+      "name": "Spicy Schezwan Pizza",
+      "price": "289"
+    },
+    {
+      "id": "_k8h67af86cg",
+      "url": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Mushroom-Pizza-with-Herbs-001-800x1199.jpg",
+      "name": "Mushroom Bite Pizza",
+      "price": "279"
+    },
+    {
+      "id": "_3wndrq6ubty",
+      "url": "http://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Double-Cheese-Burst-Pizza---SK-Khazana.jpg",
+      "name": "Cheese Burst Pizza",
+      "price": "289"
+    },
+    {
+      "id": "_fyxp645k3bg",
+      "url": "https://sites.google.com/site/dominospizzamenu1jnd/_/rsrc/1475570683828/home/non-veg-pizza/exotic-italian/150714-vk-exotic--florence-chicken-main-menu-439x307-03-427x298.jpg",
+      "name": "Italian Exotica Pizza",
+      "price": "289"
+    },
+    {
+      "id": "_59xbvrkaoz2",
+      "url": "https://5.imimg.com/data5/FT/GM/GLADMIN-3406916/american-heat-pizza-500x500.png",
+      "name": "American Heat Spl Pizza",
+      "price": "299"
+    },
+    {
+      "id": "_rxjsyeowhd9",
+      "url": "https://mlnzdsbaze8y.i.optimole.com/-PJ69xU.tuoa~e296/w:400/h:400/q:90/https://www.sagarexecutive.in/wp-content/uploads/2020/07/babycorn-pizza.jpg",
+      "name": "Baby Corn Pizza",
+      "price": "249"
+    }
+  ],
+  "tables": [
+    {
+      "customerName": "Abhishek",
+      "id": "_6j7j6k5cdn",
+      "grandTotal": 797,
+      "menuItemsList": {
+        "_59xbvrkaoz2": 2,
+        "_toh0tl6ov5m": 1
+      },
+      "totalItems": 2
+    }
+  ],
+  "pastOrders": [
+    {
+      "customerName": "Akash",
+      "id": "_20ehggsxbxv",
+      "grandTotal": 249,
+      "menuItemsList": {
+        "_ufmi0qdtl1f": 1
+      },
+      "totalItems": 1
+    }
+  ]
+}
